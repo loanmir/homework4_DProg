@@ -5,7 +5,7 @@ date: "`r format(Sys.time(), '%e %B %Y')`"
 bibliography: biblio.bib
 editor: visual
 format: 
-  html:
+  pdf:
     embed-resources: true
     #mainfont: cursive
 execute: 
@@ -142,7 +142,6 @@ knitr::include_graphics("images/image2.jpg")
 
 \
 
+------------------------------------------------------------------------
 
-***
 For more detailed information, you can visit the [World Health Organization website](https://data.who.int/dashboards/covid19/cases).Moreover I personally suggest the book @covid19_textBook_2023 if you want to get more in touch with the topic.
-
